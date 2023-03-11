@@ -1,5 +1,4 @@
 export class CreateUserDTO {
-  id?: string;
   /**
    * name for show in your profile later
    * @example 'my name'
